@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Need to take a break from studying?"
-date:   07-06-2018
+date:   2018-07-06
 excerpt: "Watch this short video from PBS Spacetime that talks about the "Physics of Life""
 image: "/images/pbs_physics_of_life.jpeg"
 ---
