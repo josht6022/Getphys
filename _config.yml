@@ -41,8 +41,9 @@ instagram:          default
 github:             default
 
 # personal
-location:           New Jersey
-email:              josht6022@gmail.com
+-location:           Los Angeles, CA
+-phone:              310-318-5555
+-email:              info@default.com
 
 # Gems
 gems:
