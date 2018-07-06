@@ -30,13 +30,6 @@ sass:
   sass_dir:         _sass
   style:            compressed
 
-# Social
-analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
-
 # Gems
 gems:
   - jekyll-mentions
