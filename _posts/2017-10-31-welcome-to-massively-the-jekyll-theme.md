@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Massively: The Jekyll Theme!"
-date:   2017-10-31
-excerpt: "Huge thanks to HTML5 UP for making this awesome template! Let's see what it can do"
+title:  "Need to take a break from studying?"
+date:   07-06-2018
+excerpt: "Watch this short video from PBS Spacetime that talks about the "Physics of Life""
 image: "/images/pic02.jpg"
 ---
 
