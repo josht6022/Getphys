@@ -14,6 +14,6 @@ sitemap:
 </div>
 
 <div class="box">
-    <p><a href="https://www.youtube.com/watch?v=kKKM8Y-u7ds&list=PLnC-B2nn5puFLouj_0b8_YfvPs1-eNKj0">Newton's Law of Motion</a> </p>
+    <p><a href="https://www.youtube.com/watch?v=kKKM8Y-u7ds&list=PLnC-B2nn5puFLouj_0b8_YfvPs1-eNKj0">Newton's-Law-of-Motion</a> </p>
         
 </div>
