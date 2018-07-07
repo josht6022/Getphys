@@ -8,9 +8,8 @@ sitemap:
     changefreq: weekly
 ---
 ## Video Resources
-
-### Content is Imortant
+<p>Here are some playlist I created for each topic below. Enjoy!</p>
 <div class="box">
-  <p><a href="https://www.youtube.com/watch?v=mXbKlYSEvF8&list=PLnC-B2nn5puE-aBnccNMG6ANf0kIwYve6">Kinematics</a>.
+  <p><a href="https://www.youtube.com/watch?v=mXbKlYSEvF8&list=PLnC-B2nn5puE-aBnccNMG6ANf0kIwYve6">Kinematics</a>
     </p>
 </div>
