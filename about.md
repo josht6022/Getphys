@@ -11,6 +11,6 @@ sitemap:
 
 ### Content is Imortant
 <div class="box">
-  <p><a href="Kinematics">https://www.youtube.com/watch?v=mXbKlYSEvF8&list=PLnC-B2nn5puE-aBnccNMG6ANf0kIwYve6</a>.</p>
+  <p><a href="https://www.youtube.com/watch?v=mXbKlYSEvF8&list=PLnC-B2nn5puE-aBnccNMG6ANf0kIwYve6">Kinematics</a>.</p>
   </p>
 </div>
