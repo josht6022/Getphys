@@ -9,14 +9,8 @@ sitemap:
 ---
 ## Video Resources
 
-<span class="image left"><img src="{{ "/images/hubble2.jpg" | absolute_url }}" alt="" /></span>
-
 ### Content is Imortant
 <div class="box">
-  <p>
+  <p> <b>Kinetmatics</b> <a href="#">https://www.youtube.com/watch?v=mXbKlYSEvF8&list=PLnC-B2nn5puE-aBnccNMG6ANf0kIwYve6</a>.</p>
   </p>
 </div>
-
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
-
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
