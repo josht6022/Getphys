@@ -62,3 +62,9 @@ sitemap:
     <p><a href="https://www.youtube.com/watch?v=jeTmIa00_rc&list=PLnC-B2nn5puF0Th_MkNkOONnIgdiqmmGy">Electromagnetism</a> </p>
         
 </div>
+
+
+<div class="box">
+    <p><a href="https://www.youtube.com/watch?v=jxstE6A_CYQ&list=PLnC-B2nn5puHA3OSl-8EuXPLaKTJW_MO0">Vibrations and Waves</a> </p>
+        
+</div>
