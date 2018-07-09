@@ -52,3 +52,8 @@ sitemap:
     <p><a href="https://www.youtube.com/watch?v=Z2QDXjG2ynU&list=PLnC-B2nn5puEDR6GqfC4G52LLPFnDzPSt">Circuits</a> </p>
         
 </div>
+
+<div class="box">
+    <p><a href="https://www.youtube.com/watch?v=dFT7-_s0jh0&list=PLnC-B2nn5puEq8vLO96oHm5IQhXjJC4QE">Magnetism</a> </p>
+        
+</div>
