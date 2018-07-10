@@ -23,37 +23,32 @@ sitemap:
 </div>
 
 <div class="box">
-    <p><a href="http://www.solvephysics.com/problems.shtml">SolvePhysics</a> </p>
-    <p>Question bank with solutions.</p>
-        
-</div>
-
-<div class="box">
-    <p><a href="http://problemsphysics.com/">ProblemPhysics</a> </p>
-    <p>Question bank with solutions.</p>
-        
-</div>
-
-
-<div class="box">
     <p><a href="http://www.ilectureonline.com/lectures/subject/PHYSICS">ilectureonline</a> </p>
-    <p>Great videos.</p>
-        
+    <p>Mike van Biezen is an amazing online resource. He has every physics topic you can think of. This website is a great way to work through problems.</p>
 </div>
 
 
 <div class="box">
     <p><a href="https://www.youtube.com/user/khanacademy/playlists?view=50&shelf_id=2&sort=dd">Khan Academy</a> </p>
-    <p>Khan Academy...need I say more.</p>
+    <p>Khan Academy...need I say more. This is their youtube channel.</p>
         
 </div>
 
 <div class="box">
-    <p><a href="https://www.youtube.com/user/derekowens/playlists?sort=dd&view=50&shelf_id=9">Derek Owens</a> </p>
-    <p>Youtube channel with some great problem sets.</p>
-        
+    <p><a href="http://problemsphysics.com/">Physics Problems</a> </p>
+    <p>This website includes tutorials and a question bank with solutions.</p>  
 </div>
 
+<div class="box">
+    <p><a href="http://www.solvephysics.com/problems.shtml">SolvePhysics</a> </p>
+    <p>This is another website that has worked out problems, equations, units and more!</p>        
+</div>
+
+<div class="box">
+    <p><a href="https://www.youtube.com/user/derekowens/playlists?sort=dd&view=50&shelf_id=9">Derek Owens</a> </p>
+    <p>This is a good Youtube channel with some great problem sets.</p>
+        
+</div>
 
 
 
