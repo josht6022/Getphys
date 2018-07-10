@@ -12,15 +12,14 @@ sitemap:
 
 <div class="box">
     <p><a href="https://ocw.mit.edu/courses/physics/">MIT Open Courseware</a> </p>
-    <p>Everything</p>
-        
+    <p>This website has everything. Just scroll down on the link to physics courses. Click the course you are interested in. Then, click get started. scroll down on that page and you can click on "Topics Covered"</p>       
 </div>
 
 
 <div class="box">
     <p><a href="http://www.physicsclassroom.com/">The Physics Classroom</a> </p>
-    <p>Here is their <a href="https://www.youtube.com/user/physicsclassroomLIVE/playlists">youtube channel</a>.</p>
-        
+    <p>Click on <a href="http://www.physicsclassroom.com/class">Tutorials</a>. This is a great concept builder that includes worked out problems with solutions.
+        Here is their <a href="https://www.youtube.com/user/physicsclassroomLIVE/playlists">youtube channel</a>.</p>   
 </div>
 
 <div class="box">
