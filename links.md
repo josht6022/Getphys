@@ -7,7 +7,7 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-## Video Resources
+## Links
 <p>Here are some websites that are good. Enjoy!</p>
 
 <div class="box">
