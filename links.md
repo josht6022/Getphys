@@ -9,13 +9,37 @@ sitemap:
 ---
 ## Video Resources
 <p>Here are some websites that are good. Enjoy!</p>
-<div class="box">
-  <p><a href="https://www.youtube.com/watch?v=mXbKlYSEvF8&list=PLnC-B2nn5puE-aBnccNMG6ANf0kIwYve6">Kinematics</a></p>    
-</div>
 
 <div class="box">
     <p><a href="http://www.physicsclassroom.com/">The Physics Classroom</a> </p>
     <p>Here is their <a href="https://www.youtube.com/user/physicsclassroomLIVE/playlists">youtube channel</a>.</p>
         
 </div>
+
+<div class="box">
+    <p><a href="http://www.solvephysics.com/problems.shtml">SolvePhysics</a> </p>
+    <p>Question bank with solutions.</p>
+        
+</div>
+
+<div class="box">
+    <p><a href="http://problemsphysics.com/">ProblemPhysics</a> </p>
+    <p>Question bank with solutions.</p>
+        
+</div>
+
+
+<div class="box">
+    <p><a href="http://www.ilectureonline.com/lectures/subject/PHYSICS">ilectureonline</a> </p>
+    <p>Great videos.</p>
+        
+</div>
+
+
+<div class="box">
+    <p><a href="https://www.youtube.com/user/khanacademy/playlists?view=50&shelf_id=2&sort=dd">Khan Academy</a> </p>
+    <p>Khan Academy...need I say more.</p>
+        
+</div>
+
 
