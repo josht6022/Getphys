@@ -42,4 +42,12 @@ sitemap:
         
 </div>
 
+<div class="box">
+    <p><a href="https://www.youtube.com/user/derekowens/playlists?sort=dd&view=50&shelf_id=9">Derek Owens</a> </p>
+    <p>Youtube channel with some great problem sets.</p>
+        
+</div>
+
+
+
 
