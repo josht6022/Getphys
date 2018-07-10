@@ -11,6 +11,13 @@ sitemap:
 <p>Here are some websites that are good. Enjoy!</p>
 
 <div class="box">
+    <p><a href="https://ocw.mit.edu/courses/physics/">MIT Open Courseware</a> </p>
+    <p>Everything</p>
+        
+</div>
+
+
+<div class="box">
     <p><a href="http://www.physicsclassroom.com/">The Physics Classroom</a> </p>
     <p>Here is their <a href="https://www.youtube.com/user/physicsclassroomLIVE/playlists">youtube channel</a>.</p>
         
